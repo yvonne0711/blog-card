@@ -57,7 +57,7 @@ body {
     max-width: 327px;
 }
 
-a {
+.card-content a {
     text-decoration: none;
     color: hsl(0, 0%, 7%);
 }
